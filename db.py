@@ -1,4 +1,4 @@
-from functions import Json
+from kasperdb.functions import Json
 import kasperdb.config as config
 import os
 try:
