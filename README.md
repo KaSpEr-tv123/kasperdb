@@ -24,7 +24,7 @@ db.delete("t") #удаляем базу данных t
 ```
 
 # Как установить
-*видео* гайд по [ссылке](https://youtu.be/BLZzUIWVjGk)
+напишите в консоль комманду `pip install kasperdb`
 
 # Особенности KasperDB
 
